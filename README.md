@@ -23,11 +23,11 @@ It should do everything I use MyNetDiary and Hevy for without me having to pay 1
 ### Core Features
 
 * [ ] **Authentication System:** Secure sign-up/log-in via email and Google OAuth (Supabase Auth).
-* [ ] **Daily Nutrition Diary:** High-performance logging system with offline caching for mobile reliability.
-* [ ] **Global Food Database:** Integration with OpenFoodFacts for verified nutritional data.
+* [X] **Daily Nutrition Diary:** High-performance logging system with offline caching for mobile reliability.
+* [X] **Global Food Database:** Integration with OpenFoodFacts for verified nutritional data.
 * [ ] **Smart Caching:** Local persistence of the 500 most recent items and user-defined "Favorites."
 * [ ] **Barcode Scanner:** Real-time UPC/EAN scanning for instant logging.
-* [ ] **Macro/Micro Tracking:** Monitoring of Calories, Fats, Carbohydrates, Protein, and Sodium.
+* [X] **Macro/Micro Tracking:** Monitoring of Calories, Fats, Carbohydrates, Protein, and Sodium.
 * [ ] **Hydration Tracker:** Visual water intake logging with customizable daily targets.
 * [ ] **Biometric Logging:** Tracking for body weight, height, body fat percentage, and specific circumference measurements (biceps, waist, etc.).
 * [ ] **Data Visualization:** Integrated progress graphs for all tracked biometric metrics.
